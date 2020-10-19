@@ -12,6 +12,7 @@ public class Main {
 			System.out.println("Menu");
 			System.out.println("1. Lihat Data");
 			System.out.println("2. Edit Data");
+			System.out.println("3. EXIT");
 			pilih = myObj.nextInt();myObj.nextLine();
 			if(pilih==1) {
 				System.out.println(" ");
